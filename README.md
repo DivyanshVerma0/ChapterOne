@@ -16,11 +16,6 @@ A modern, minimalist online bookstore web app for discovering and purchasing cla
 
 ---
 
-## 🚀 Screenshots
-> _Add screenshots of your home page, shop, and cart here!_
-
----
-
 ## 🛠️ Tech Stack
 - HTML5
 - CSS3 (custom, with responsive media queries)
